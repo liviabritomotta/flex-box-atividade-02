@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Atividade 02  de Flexbox
 
 ## Exercícios:
@@ -26,3 +27,6 @@ Levando como exemplo os exercícios A e B, desenvolva a página de forma que seu
 Estilize a div com classe "container-desafio" para que fique como abaixo:
 
 ![image (2)](https://github.com/user-attachments/assets/7a5abae9-38f8-4b65-803f-67de69d8d04b)
+=======
+# flex-box-atividade-02
+>>>>>>> affcff3cfd4be3a4f2ca2a3ed6780106ca65828b
